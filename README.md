@@ -13,6 +13,10 @@ In the luxury jewelry industry, pricing and stock management are high-stakes ope
 
 ---
 
+### 📗 Google Sheet Link: [Access the full interactive analysis here](https://docs.google.com/spreadsheets/d/1oKUh_1wx0UfmJfhf7ikCGMihJIO_aqfpXddyzKEfI5s/edit?usp=sharing)
+
+---
+
 ## 📊 Price Estimation
 ***Confidence Intervals for Means (Continuous Data)***
 
